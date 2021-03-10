@@ -1,0 +1,43 @@
+lastAccountName: Testing_Player
+timestamps:
+  login: 1594160657953
+  logout: 1594160706622
+  lastteleport: 1590676625092
+ipAddress: 37.120.218.157
+lastlocation:
+  world: world
+  x: 100.5
+  y: 150.0
+  z: 100.5
+  yaw: -54.367058
+  pitch: 52.290123
+logoutlocation:
+  world: world
+  x: -1.5602271296377237
+  y: 130.1164939035102
+  z: 4.656143356901776
+  yaw: 16.736816
+  pitch: 21.581598
+afk: false
+homes:
+  afk:
+    world: world
+    x: 2479.5515287323146
+    y: 82.0
+    z: 3764.001180034146
+    yaw: 252.07
+    pitch: 79.19701
+  nether:
+    world: world
+    x: 0.7012587081136976
+    y: 128.0
+    z: 0.8840867416416409
+    yaw: 21.267273
+    pitch: -31.271574
+  test:
+    world: world
+    x: -1.5602271296377237
+    y: 130.1164939035102
+    z: 4.656143356901776
+    yaw: 16.852966
+    pitch: 21.581598
